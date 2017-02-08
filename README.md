@@ -4,7 +4,7 @@
 
 *Create custom UICollectionViewLayoutWith with a custom paging size of UICollectionViewCell by overriding scrollViewWillEndDragging*
 
-![alt text](https://github.com/damienromito/CollectionViewCustom/blob/master/picture.jpg "custom UICollectionViewCell size")
+![alt text](https://github.com/damienromito/CollectionViewCustom/blob/master/image.jpg "custom UICollectionViewCell size")
 
 ```swift
 let collectionMargin = CGFloat(16)
